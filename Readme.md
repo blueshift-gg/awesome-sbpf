@@ -23,8 +23,6 @@ A collection of awesome resources for learning sBPF Assembly (Solana eBPF). PRs 
 - [sbpf-asm-noop](https://github.com/deanmlittle/sbpf-asm-noop) - a bytecode optimal noop program with a custom linker file demonstrating extreme binary optimization
 - [sbpf-asm-slippage](https://github.com/deanmlittle/sbpf-asm-slippage) - a tiny slippage detection instruction in just 4CUs
 - [solaba-fibonacci-asm](https://github.com/deanmlittle/solana-fibonacci-asm) - a fibonacci number solver written in sBPF assembly
-- [sbpf-asm-noop](https://github.com/deanmlittle/sbpf-asm-noop) - a heavily optimized sBPF assembly implementation of noop
-- [sbpf-asm-slippage](https://github.com/deanmlittle/sbpf-asm-slippage) - a tiny IX for slippage checks written in sBPF ASM
 - [sbpf-asm-sha256](https://github.com/deanmlittle/sbpf-asm-sha256) - a simple example of using assembly to hash a string and return it in base64
 - [sbpf-asm-memo](https://github.com/deanmlittle/sbpf-asm-memo) - a memo program in sBPF assembly
 - [sbpf-asm-afterburner](https://github.com/deanmlittle/sbpf-asm-afterburner) - a program to burn the remaining number of CUs in a transaction
